@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="drawableview-0.6.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/ec24a8caf0f0a3a06b1a637f50a2dc0604ec6438/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/ec24a8caf0f0a3a06b1a637f50a2dc0604ec6438/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.panavtec/drawableview/0.6.0/42543b9c17e37957b7e908129adaaa11824829e8/drawableview-0.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

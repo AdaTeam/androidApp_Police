@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\My PC\Desktop\GitApp\AdaGroup\SInsurance\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2386aef8c497a7812fbd194881070d4fe38f0e01">
+        <dex dex="C:\Users\My PC\Desktop\GitApp\AdaGroup\SInsurance\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3b84a49f0836303c6fc214b4b3b6df07b69e4c71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\My PC\Desktop\GitApp\AdaGroup\SInsurance\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\My PC\Desktop\GitApp\AdaGroup\SInsurance\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6d78bf9183f3fde23c9321059818dad974fa67a4\classes.dex" />
+    </item>
+
+</items>

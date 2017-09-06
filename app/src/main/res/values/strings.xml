@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Smart Ins</string>
+    <string name="Sign_In">Sign In</string>
+    <string name="Password">Password</string>
+    <string name="User_Name">User Name</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="guilty">مقصر</string>
+    <string name="next">بعدی</string>
+    <string name="name_and_lastname">نام و نام خانوادگی</string>
+    <string name="address">آدرس</string>
+    <string name="phone_number">شماره تلفن</string>
+    <string name="type_of_license"> نوع گواهینامه </string>
+    <string name="license_number">شماره ی گواهینامه</string>
+    <string name="damaged_part">قسمت های آسیب دیده</string>
+    <string name="non_guilty">غیر مقصر</string>
+    <string name="khesarati">خسارتی</string>
+    <string name="jarhi">جرحی</string>
+    <string name="footi">فوتی</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="explanation">توضیحات</string>
+    <string name="finish">پایان</string>
+    <string name="end">پایان</string>
+</resources>
